@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Arwanvrex
+echo "# arwanvr" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Arwanvrex/arwanvr.git
+git push -u origin main- 👋 Hi, I’m @Arwanvrex
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
